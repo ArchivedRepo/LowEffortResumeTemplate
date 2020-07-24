@@ -1,4 +1,3 @@
-// import "../data/config.json";
 import * as React from "react";
 import config_json from  "../data/config.json";
 

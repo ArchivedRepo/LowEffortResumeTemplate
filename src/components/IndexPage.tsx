@@ -1,14 +1,10 @@
 import * as React from "react";
-import { Layout, Menu, Typography, Divider, Row, Col } from 'antd';
+import { Layout, Typography, Divider, Row, Col } from 'antd';
 const { Title } = Typography;
 import { MailOutlined, PhoneOutlined } from '@ant-design/icons';
-const { SubMenu } = Menu;
-const { Header, Content, Footer, Sider } = Layout;
+const { Header, Content, Footer } = Layout;
 
 import './IndexPage.css';
-import {ExperienceComp, ExperienceCompProps} from "./ExperienceComp";
-import {AwardComp, AwardCompProps} from "./AwardComp";
-
 import DataLoader from "../scripts/DataLoader";
 
 // Empty as it is static
@@ -110,43 +106,3 @@ class IndexPage extends React.Component {
 }
 
 export default IndexPage;
-
-// const test_research_props: ExperienceCompProps = {
-//     title: "Construction of NIT II-responsive antibacterial/antifouling switchable surface",
-//     organization: "Beijing Laboratory of Biomedical Materials",
-//     time_span: "2019.10-Present",
-//     info: [
-//         "Researched the background and progress of stimuli-responsive switchable antibacterial.",
-//         "Designed experiment plan and synthesis route. (link)",
-//         "Synthesized antibacterial surface on Ti and tested the inhibition rate of bacteria growth.",
-//         "Writing a review, “The progress on smart stimuli-responsive antibacterial material for wound healing”."
-//     ]
-// };
-
-// const test_award_props: AwardCompProps = {
-//     time: "May, 2018",
-//     award_name: "Second prize in the National English Competition for College Students, College English Teaching & Research Association of China"
-// };
-
-// const test_scholarship_props = {
-//     time: "September, 2017",
-//     award_name: "Excellent Students Award (Top 2%), Beijing university of Beijing chemical technology."
-// };
-
-// const test_work_props_1 = {
-//     title: "Counselor in Changshu Citizens and Nature Camp",
-//     organization: "IDEAS Camp Education Company",
-//     info: [
-//         "Designed chemistry workshop individually.",
-//         "Led group members finish the lessons and activity in camp with foreign coworkers."
-//     ]
-// };
-
-// const test_work_props_2 = {
-//     title: "Translator for China international fair for trade in services, Wuxi session",
-//     organization: "China Association of Trade in Service",
-//     info: [
-//         "Translated the content in meeting for foreign merchant"
-//     ]
-// };
-

@@ -1,11 +1,7 @@
 import * as React from "react";
-// import { FC } from 'react';
-// import { Button } from 'antd';
 import './IndexPage.css';
-
-import { Layout, Menu, Typography, Divider, Row, Col } from 'antd';
+import { Typography, Row, Col } from 'antd';
 const { Title } = Typography;
-import { MailOutlined, PhoneOutlined } from '@ant-design/icons';
 
 export interface ExperienceCompProps {
     title: string,
