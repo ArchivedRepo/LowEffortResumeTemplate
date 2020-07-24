@@ -26,7 +26,7 @@
   "keywords": [
     "gatsby"
   ],
-  "license": "0BSD",
+  "license": "AGPL",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
