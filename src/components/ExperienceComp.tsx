@@ -1,7 +1,7 @@
 import * as React from "react";
 // import { FC } from 'react';
 // import { Button } from 'antd';
-import '../style/IndexPage.css';
+import './IndexPage.css';
 
 import { Layout, Menu, Typography, Divider, Row, Col } from 'antd';
 const { Title } = Typography;

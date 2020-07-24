@@ -5,7 +5,7 @@ import { MailOutlined, PhoneOutlined } from '@ant-design/icons';
 const { SubMenu } = Menu;
 const { Header, Content, Footer, Sider } = Layout;
 
-import '../style/IndexPage.css';
+import './IndexPage.css';
 import {ExperienceComp, ExperienceCompProps} from "./ExperienceComp";
 import {AwardComp, AwardCompProps} from "./AwardComp";
 
