@@ -1,0 +1,29 @@
+@import '~antd/dist/antd.css';
+
+#components-layout-demo-top-side .logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 28px 16px 0;
+    float: left;
+}
+  
+.main-content {
+    background: #fff;
+    padding: 24px;
+    min-height: 280px;
+}
+
+.name {
+    font-size: 400%
+}
+
+.research-title {
+    font-style: italic;
+}
+
+.research-lab {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 100%;
+}

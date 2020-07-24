@@ -1,0 +1,218 @@
+{
+    "name": "Yanru Qu",
+    "contact": {
+        "email": "qu_yanru@outlook.com",
+        "phone": "(+86)153-4066-1670"
+    },
+    "education": {
+        "degree_name": "Polymer Material Engineering",
+        "university": "Beijing University of Chemical Technology, College of Material Science and Engineering",
+        "GPA": "4.00",
+        "time": "2017-2021"
+    },
+    "research": [
+        {
+            "title": "Construction of NIR II-responsive antibacterial/antifouling switchable surface",
+            "organization": "Beijing Laboratory of Biomedical Materials",
+            "time_span": "October 2019 - Present",
+            "info": [
+                "<a href=\"https://www.google.com\"> Researched </a> the background and progress of stimuli-responsive switchable antibacterial.",
+                "Designed experiment plan and synthesis route. (link)",
+                "Synthesized antibacterial surface on Ti and tested the inhibition rate of bacteria growth.",
+                "Writing a review, “The progress on smart stimuli-responsive antibacterial material for wound healing”."
+            ]
+        },
+        
+        {
+            "title": "Preparation and application of supercapacitor by bi-metal activation method",
+            "organization": "State Key Laboratory of Chemical Resource Engineering",
+            "time_span": "October 2019 - Present",
+            "info": [
+                "Synthesized hierarchical porous carbon by hydrothermal of wasted rubber.",
+                "Characterized material and tested the electrochemical capacity performance of the supercapacitor.",
+                "Completed the thesis of stage achievement.",
+                "Finished a review, “The preparation and application in supercapacitor of porous carbon based on waste material ”."
+            ]
+        },
+        {
+            "title": "Integrated Electrodes for Rechargeable Batteries ",
+            "organization": "State Key Laboratory of Chemical Resource Engineering",
+            "time_span": "April 2020 - Present",
+            "info": [
+                "Researched progress of main batteries and analyzed the application of integrated electrode.",
+                "Writing a review, “Design and Construction of Carbon-based Integrated Electrodes for Rechargeable Batteries: Status and Prospects”."
+            ]
+        },
+        {
+            "title": "The application of density function theory in Li–S battery",
+            "organization":"State Key Laboratory of Chemical Resource Engineering",
+            "time_span":"January 2020 - Present",
+            "info": [
+                "Researched the recent progress of Li-S battery and the application of DFT.",
+                "Cooperated with students in computational chemistry field.",
+                "Finished a review, “Theoretical calculation application in Li−S batteries: recent progress and perspectives” (manuscript in preparation)." 
+            
+            ]
+        },
+        {
+            "title": "Construction of novel antibacterial and anti-biofilm polymer based on polymyxin B and D-amino acid",
+            "organization": "Beijing Laboratory of Biomedical Materials",
+            "time_span":"November 2018 - June 2019",
+            "info": [
+                "Synthesized antibacterial micelle with polymer as backbone packing D-Tyr.",
+                "Characterize materials and tested ability of killing bacterial and dispersing biofilm.",
+                "Led team to enter the Creativity Competition Experimental Project and selected as a key project in college.",
+                "Won outstanding prize in the first national polymer material innovation& entrepreneurship competition."
+            ]
+        },
+        {
+           "title": "The surface functional modification of antibacterial polymer",
+           "organization":"Beijing Laboratory of Biomedical Materials",
+           "time_span":"November 2017 - June 2018",
+           "info":[
+               "Researched recent progress on antibacterial materials and focused on polymer.",
+               "Led team to enter a scientific research competition in university with a review completed, “The surface functional modification of antibacterial polymer and the application in biomedical material”.",
+               ["Published paper on Surface Technology (EI compendex& Chinese core journal).",
+               "(Qu et al. Preparation and Application of Multifunctional Quaternary Ammonium Polymers for The Engineering of Novel Antibacterial Materials[J]. Surface Technology, 2019, 220-228. (First author))",
+               "(Supported by the National Natural Science Foundation of China (51573014, 21504006))"
+               ]
+
+           ]          
+        }       
+    ],
+    "publication": [
+        {
+            "title": "Construction of NIR II-responsive antibacterial/antifouling switchable surface",
+            "organization": "",
+            "time_span": "October 2019 - Present",
+            "info": [
+                "<a href=\"https://www.google.com\"> Researched </a> the background and progress of stimuli-responsive switchable antibacterial.",
+                "Designed experiment plan and synthesis route. (link)",
+                "Synthesized antibacterial surface on Ti and tested the inhibition rate of bacteria growth.",
+                "Writing a review, “The progress on smart stimuli-responsive antibacterial material for wound healing”."
+            ]
+        }
+    ],
+    "award": [
+        {
+            "time": "May 2018",
+            "award_name": "Second prize in the National English Competition for College Students, College English Teaching & Research Association of China"
+        },
+        {
+            "time": "April 2019",
+            "award_name": "Third prize in the National English Competition for College Students, College English Teaching & Research Association of China."
+        },
+        {
+            "time": "September, 2019",
+            "award_name": "Third prize in “U challenge” reading competition, Unipus."
+        },
+        {
+            "time": "November 2019",
+            "award_name": "Outstanding prize in the first National Polymer Material Innovation & Entrepreneurship Competition， Ministry of Education."
+        },
+        {
+            "time":"March 2020",
+            "award_name": " Passed the first round in Stanford CGCP Student Writing Contest, Stanford Law School."
+
+            
+        }
+    ],
+    "scholarship": [
+        {
+            "time": "September 2017",
+            "award_name": "Excellent Students Award (Top 2%), Beijing university of Beijing chemical technology."
+        },
+        {
+            "time": "March 2018",
+            "award_name": "People Scholarship, Beijing university of Beijing chemical technology."
+        },
+        {
+            "time":"September 2018",
+            "award_name": "Individual Advanced Award in social practice plan, Beijing university of Beijing chemical technology."
+        },
+        {
+            "time":"December 2018",
+            "award_name": "Special High Social Scholarship (3/750+), Beijing university of Beijing chemical technology." 
+        },
+        {
+            "time": "September, 2019",
+            "award_name": "Quality-expanding Competition Award Scholarship, Beijing university of Beijing chemical technology."
+        },
+        {
+            "time": "November 2019",
+            "award_name": "Special social scholarship, Beijing university of Beijing chemical technology."
+        },
+        {
+            "time":"June 2020",
+            "award_name": "Quality-expanding Competition Award Scholarship, Beijing university of Beijing chemical technology."
+        }
+
+    ],
+    "work": [
+        {
+            "title": "Counselor in Changshu Citizens and Nature Camp",
+            "organization": "IDEAS Camp Education Company",
+            "time_span": "July 2019",
+            "info": [
+                "Designed chemistry workshop individually.",
+                "Led group members finish the lessons and activity in camp with foreign coworkers."
+            ]
+        },
+        {
+            "title": "Translator for China international fair for trade in services, Wuxi session",
+            "organization": "China Association of Trade in Service",
+            "time_span": "June 2019",
+            "info": [
+                "Translated the content in meeting for foreign merchant"
+            ]
+        },
+        {
+            "title": "Intern student",
+            "organization": ["Volunteers Organization for Innovative Country ",
+                             "(Social Service Organization Registration in The Ministry of Civil Affairs of China)"
+            ],
+            "time_span": "March 2019",
+            "info": [
+                "Managing human resources, including interviewing and working arrangement for volunteers",
+                "In charge of new media part, writing articles, publishing and maintaining",
+                "The main lecturer in seminar of Learning through traveling in rural area.",
+                "Designed international volunteer activity in rural area, leading five foreigners finish village construction in Dongmenying Village, Yanqing, Beijing.",
+                "Assist the normal work for company.",
+                "Design “K12 study through rural area” project individually."
+
+            ]
+        },
+        {
+            "title": "Member of the first Rural Cultural Construction Project",
+            "organization": "Qufu Confucius International Studies Center",
+            "time_span": "February 2019",
+            "info": [
+                "Finished the learning and spreading of Confucian traditional culture with youth from 5 different countries",
+                "Translated for foreigners and taught them about Chinese culture",
+                "Finished support education in rural primary school in Qufu"
+            ]
+        },
+        {
+            "title": "Head of the exhibition area of service team in SVIEF 2018",
+            "organization": "Silicon Valley Innovation& Entrepreneurship Forum",
+            "time_span": "July 2018",
+            "info": [
+                "Translated for foreigners and assisted for the negotiation between customers and merchants.",
+                "Got the recommend letters from the leads of International companies after SVIEF. "
+            ]
+        }
+    ],
+    "volunteer": [
+        "Member of 3rd Horizon program in 2020, launched by Tsinghua University",
+        "Volunteered to given lessons to blind children during 2019 coronavirus period.",
+        "Volunteered in “time-donating” activity launched by Beichen NGO",
+        "Volunteer for Special Olympics 2019, responsible for recruiting new interviews and giving skills training for speakers at the TED team",
+        "Volunteered in music festivals and with the honor as “Outstanding Volunteer”."
+    ],
+    "debate": [
+        "2017.12 Champion in debate competition “9th December” in university",
+        "2019.6 Second place in debate competition “Knowledgeable Debate” in university",
+        "2020.5 Third place in the debate competition “4th May Youth Debate” in university",
+        "Took nationwide debate competitions for college students on behalf of university"
+    ]
+}
