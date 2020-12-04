@@ -5,98 +5,125 @@
         "phone": "(+86)153-4066-1670"
     },
     "education": {
-        "degree_name": "Polymer Material Engineering",
-        "university": "Beijing University of Chemical Technology, College of Material Science and Engineering",
-        "GPA": "4.00",
-        "time": "2017-2021"
+    
+        "degree_name": "Beijing University of Chemical Technology, Polymer Material Engineering, Elite Class",
+        "university": "(Top 30 students selected by highest score when entering university/second round selection after the first year)",
+        "GPA": "3.43",
+        "time": " June 2017 - present"
+    
+    
     },
     "research": [
         {
-            "title": "Construction of NIR II-responsive antibacterial/antifouling switchable surface",
+            "title": "Construction of NIR II-responsive Antibacterial/antifouling Switchable Surface",
             "organization": "Beijing Laboratory of Biomedical Materials",
-            "time_span": "October 2019 - Present",
+            "time_span": "Oct. 2019 - present",
             "info": [
-                "<a href=\"https://www.google.com\"> Researched </a> the background and progress of stimuli-responsive switchable antibacterial.",
-                "Designed experiment plan and synthesis route. (link)",
-                "Synthesized antibacterial surface on Ti and tested the inhibition rate of bacteria growth.",
-                "Writing a review, “The progress on smart stimuli-responsive antibacterial material for wound healing”."
+                "Researched more than 40 published studies around the area of stimuli-responsive switchable antibacterial in one week to analyze the corresponding research background and bottleneck.",
+                "Designed function-switchable antibacterial/antifouling surface responding to NIR II stimuli, for the first time realizing precise responding towards adventitious stimuli by including fabrication of twice stimuli-response and LCST adjusting of polymer. ",
+                "Synthesized antibacterial surface on titanium sheet and tested the inhibition rate of bacteria growth.",
+                "Writing a review around research topic, “The progress on smart stimuli-responsive antibacterial material for wound healing”.",
+                "Selected as national project in China College Students’ Innovation and Entrepreneurship Competition. (13/79)"
             ]
         },
-        
         {
-            "title": "Preparation and application of supercapacitor by bi-metal activation method",
+            "title": "Multi-metallic Polyphthalocyanine (PPc): Fabrication and Electrocatalysis Application",
             "organization": "State Key Laboratory of Chemical Resource Engineering",
-            "time_span": "October 2019 - Present",
-            "info": [
-                "Synthesized hierarchical porous carbon by hydrothermal of wasted rubber.",
-                "Characterized material and tested the electrochemical capacity performance of the supercapacitor.",
-                "Completed the thesis of stage achievement.",
-                "Finished a review, “The preparation and application in supercapacitor of porous carbon based on waste material ”."
+            "time_span":"  Sept. 2020 - Present",
+            "info":[
+                "Researched studies on high-entropy alloy, polyphthalocyanine and electrochemistry.",
+                "Synthesized FeCoNiCu-AMPPC (AM= Mg, Ca, Sr, Ba) respectively, characterized (SEM, FTIR, UV Raman spectra and XRD) and tested corresponding electrocatalysis performance.",
+                "Fabricated single-layer FeCoNiCu-AMPPC by ball-milling.",
+                "Taking the merits of single-atom catalysis (SAC), synthesized MPPc (M= Mg, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ru, Rh, Pd, Ag, W, Ir, Pt, Au), respectively."
+
             ]
-        },
+        },   
         {
             "title": "Integrated Electrodes for Rechargeable Batteries ",
             "organization": "State Key Laboratory of Chemical Resource Engineering",
-            "time_span": "April 2020 - Present",
+            "time_span": "Apr. 2020 - present",
             "info": [
-                "Researched progress of main batteries and analyzed the application of integrated electrode.",
+                "Researched more than 100 published studies to analyze the merits, application and challenge of integrated electrode.",
                 "Writing a review, “Design and Construction of Carbon-based Integrated Electrodes for Rechargeable Batteries: Status and Prospects”."
             ]
         },
         {
-            "title": "The application of density function theory in Li–S battery",
+            "title": "Preparation and Application of Supercapacitor by Bi-metal Activation Method",
+            "organization": "State Key Laboratory of Chemical Resource Engineering",
+            "time_span": "Oct. 2019 - May 2020",
+            "info": [
+                "Analyzed the composition and current utilization situation of wasted rubber, to optimize its recycling and exert the merits of composition for energy storage equipment.",
+                "Synthesized hierarchical porous carbon by hydrothermal of wasted rubber with variable of two different activated agent to carbon precursor ratio.",
+                "Characterized material and tested the electrochemical capacity performance of the supercapacitor to analyze the specific surface area of porous carbon and its performance in supercapacitor.",
+                "Finished a review based on the project designed idea—effective utilization of wasted materials in energy storage, “The synthesis strategy and application in supercapacitor of hierarchical porous carbon from waste-based materials”."
+            ]
+        },
+        {
+            "title": "The Application of Density Function Theory In Li–S Battery",
             "organization":"State Key Laboratory of Chemical Resource Engineering",
-            "time_span":"January 2020 - Present",
+            "time_span":"Jan. 2020 - May 2020",
             "info": [
-                "Researched the recent progress of Li-S battery and the application of DFT.",
-                "Cooperated with students in computational chemistry field.",
-                "Finished a review, “Theoretical calculation application in Li−S batteries: recent progress and perspectives” (manuscript in preparation)." 
-            
+                "Gained the basic knowledge of DFT calculation, including its main application and specific calculation methods.",
+                "Researched the recent progress of Li-S battery and focused on the role of DFT calculation.",
+                "Finished a review based on the project designed idea—effective utilization of wasted materials in energy storage, “The synthesis strategy and application in supercapacitor of hierarchical porous carbon from waste-based materials”."
             ]
         },
         {
-            "title": "Construction of novel antibacterial and anti-biofilm polymer based on polymyxin B and D-amino acid",
+            "title": "Construction of Novel Antibacterial and Anti-Biofilm Polymer Based on Polymyxin B and D-Amino Acid",
             "organization": "Beijing Laboratory of Biomedical Materials",
-            "time_span":"November 2018 - June 2019",
+            "time_span":"Nov. 2018 - June 2019",
             "info": [
-                "Synthesized antibacterial micelle with polymer as backbone packing D-Tyr.",
-                "Characterize materials and tested ability of killing bacterial and dispersing biofilm.",
-                "Led team to enter the Creativity Competition Experimental Project and selected as a key project in college.",
-                "Won outstanding prize in the first national polymer material innovation& entrepreneurship competition."
+                "Inspired by a published work about the anti-biofilm function of D-amino acid, tended to  a polymer to integrate anti-biofilm and antibacterial function.",
+                "Grafted D-amino and QPEI on polymer PGMA backbone.",
+                "Characterized materials and tested the ability of killing bacterial and dispersing biofilm, proving the excellent antibacterial efficiency but inferior ability to disperse biofilm of D-Tyr in the working form as touching.",
+                "Adjusted the aiming product to synthesize antibacterial micelle with polymer as backbone packing D-Tyr.",
+                "Led team to enter the Creativity Competition Experimental Project and selected as key project in college (TOP 5).",
+                "Won outstanding prize in the first National Polymer Material Innovation& Entrepreneurship Competition. (30/400+)"
             ]
         },
         {
-           "title": "The surface functional modification of antibacterial polymer",
+           "title": "The Surface Functional Modification of Antibacterial Polymer",
            "organization":"Beijing Laboratory of Biomedical Materials",
-           "time_span":"November 2017 - June 2018",
+           "time_span":"Nov. 2017- June 2018",
            "info":[
-               "Researched recent progress on antibacterial materials and focused on polymer.",
+               "Researched recent progress on antibacterial materials and focused on polymer",
                "Led team to enter a scientific research competition in university with a review completed, “The surface functional modification of antibacterial polymer and the application in biomedical material”.",
-               ["Published paper on Surface Technology (EI compendex& Chinese core journal).",
-               "(Qu et al. Preparation and Application of Multifunctional Quaternary Ammonium Polymers for The Engineering of Novel Antibacterial Materials[J]. Surface Technology, 2019, 220-228. (First author))",
-               "(Supported by the National Natural Science Foundation of China (51573014, 21504006))"
-               ]
+               "Published paper on Surface Technology (EI compendex& Chinese core journal).\n(Qu et al. Preparation and Application of Multifunctional Quaternary Ammonium Polymers for The Engineering of Novel Antibacterial Materials[J]. Surface Technology, 2019, 220-228. (First author))\n(Supported by the National Natural Science Foundation of China (51573014, 21504006))"
+               
 
            ]          
         }       
     ],
     "publication": [
         {
-            "title": "Construction of NIR II-responsive antibacterial/antifouling switchable surface",
+            "title": "Yanru Qu, Haolei Zhang, Chuankai Shen, Dongyuan Cui, Xiaokang Ding*. Preparation and Application of Multifunctional Quaternary Ammonium Polymers for The Engineering of Novel Antibacterial Materials[J]. Surface Technology, 2019, 220-228.",
             "organization": "",
-            "time_span": "October 2019 - Present",
+            "time_span":"",
             "info": [
-                "<a href=\"https://www.google.com\"> Researched </a> the background and progress of stimuli-responsive switchable antibacterial.",
-                "Designed experiment plan and synthesis route. (link)",
-                "Synthesized antibacterial surface on Ti and tested the inhibition rate of bacteria growth.",
-                "Writing a review, “The progress on smart stimuli-responsive antibacterial material for wound healing”."
+              
             ]
+            
+        },
+        {
+            "title": "Jianbo Li,‡ Yanru Qu, ‡ Chunyuan Chen, Xin Zhang,* and Mingfei Shao*. Theoretical Investigation on Lithium Polysulfides Adsorption and Conversion for High-Performance Li−S Batteries[J]. Nanoscale, 2020. (Accepted)",
+            "organization": "",
+            "time_span":"",
+            "info": [
+              
+            ]
+            
         }
+
     ],
     "award": [
         {
             "time": "May 2018",
             "award_name": "Second prize in the National English Competition for College Students, College English Teaching & Research Association of China"
+        },
+        {
+            "time": "May 2018",
+            "award_name": "3rd prize in Woman Basketball, College of Materials Science and Engineering, BUCT"
+
         },
         {
             "time": "April 2019",
@@ -146,7 +173,7 @@
             "time":"June 2020",
             "award_name": "Quality-expanding Competition Award Scholarship, Beijing university of Beijing chemical technology."
         }
-
+        
     ],
     "work": [
         {
@@ -210,6 +237,7 @@
         "Volunteered in music festivals and with the honor as “Outstanding Volunteer”."
     ],
     "debate": [
+        "Participated more than 30 competitions, with topics including human right, technology ethics, policy design, paradox situation, social hotspot, discussion among specific situation in literature, etc",
         "2017.12 Champion in debate competition “9th December” in university",
         "2019.6 Second place in debate competition “Knowledgeable Debate” in university",
         "2020.5 Third place in the debate competition “4th May Youth Debate” in university",
