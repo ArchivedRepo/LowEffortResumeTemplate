@@ -53,6 +53,40 @@ class IndexPage extends React.Component {
                             <Row>
                                 GPA: {this.dataLoader.education.GPA}
                             </Row>
+                            <Row>
+                                <u>Main Course</u>: <i>Manufacture Engineering of Polymers, Polymer Processing Engineering, Polymer modification, Polymer Chemistry, Polymer Physics, Advances in biomaterials, Physical Chemistry, Organic Chemistry, etc.</i>
+                            </Row>
+                        </div>
+                        <br/>
+                        <div> 
+                            <Row>
+                                <Col span={20}>
+                                    <Title level={3}>
+                                    Horizon Program, Institution of Global Development, Tsinghua University
+                                    </Title>
+                                </Col>
+                            <Col span={4}>May 2020 - present</Col>
+                            </Row>
+                            <Row>
+                            <u>Seminar</u>: <i>Analysis of China Social Organization management policy, Some questions and reflections on the talent demand and training of China's participation in global governance, etc</i>
+                            </Row>
+                            <Row>
+                            <u>Social Work:</u> <i>Global Youth Ecological Governance & Social Development Summit, Global Youth SDG (Substantial Development Goal) Training Camp, etc.</i>
+                            </Row>
+                        </div>
+                        <br/>
+                        <div> 
+                            <Row>
+                                <Col span={20}>
+                                    <Title level={3}>
+                                    2020 YES GO program, Polaris Youth Company (acceptance rate 4%)
+                                    </Title>
+                                </Col>
+                            <Col span={4}>April 2020 - present</Col>
+                            </Row>
+                            <Row>
+                            <u>Program Plan:</u>: <i>Public Speaking, Artistic Express, City Exploration, Entrepreneur Simulation, etc.</i>
+                            </Row>
                         </div>
                     </div>
                     <Divider/>
